@@ -15,7 +15,7 @@ const Home: NextPage = () => {
       </Head>
       <div className="flex flex-col items-center justify-center w-1/2 min-h-screen mx-auto">
         <h1 className="text-2xl flex items-center gap-3">
-          Teste GitHub Actions
+          Teste GitHub Actions 2
           <FaGithub size={36} />
         </h1>
       </div>
